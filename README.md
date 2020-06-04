@@ -3,11 +3,11 @@
 Este proyecto ha sido programado por 
 Héctor Cruz Juárez
 
-+ info hectorcruz.com.mx
++ info https:://hectorcruz.com.mx
 hello@hectorcruz.com.mx
 
 Para mas información de este proyecto
-visita landscape.com.mx
+visita https:://landscape.com.mx
 
 LOOP Espejos del Tiempo
 Dirección Vivian Cruz
@@ -15,4 +15,4 @@ Dirección Vivian Cruz
 Teatro de Creacíon Remota en Vivo
 MÉXICO 2020
 
-V09b
+Versión: V09b
