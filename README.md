@@ -3,11 +3,11 @@
 Este proyecto ha sido programado por 
 Héctor Cruz Juárez
 
-+ info https:://hectorcruz.com.mx
++ info https://hectorcruz.com.mx
 hello@hectorcruz.com.mx
 
 Para mas información de este proyecto
-visita https:://landscape.com.mx
+visita https://landscape.com.mx
 
 LOOP Espejos del Tiempo
 Dirección Vivian Cruz
