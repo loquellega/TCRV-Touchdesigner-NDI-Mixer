@@ -25,3 +25,5 @@ El tutorial en video muestra como utilizarlo. (señales NDI minuto: 3:27)
 
 https://www.youtube.com/watch?v=WLa9B1eIb1w&t=3m27s
 
+![LOOP workflow V2_3](https://user-images.githubusercontent.com/6895326/84718724-0894ee80-af3f-11ea-9197-64cac484b7ef.jpg)
+
