@@ -3,6 +3,8 @@
 Este proyecto ha sido programado por 
 Héctor Cruz Juárez
 
+Diagrama interactivo: https://miro.com/app/board/o9J_klL4gMo=/
+
 + info https://hectorcruz.com.mx
 hello@hectorcruz.com.mx
 
