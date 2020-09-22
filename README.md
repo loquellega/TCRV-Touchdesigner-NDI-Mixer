@@ -17,6 +17,15 @@ Visita también los detalles de esta investigación en: https://hectorcruz.com.m
 Teatro de Creacíon Remota en Vivo
 MÉXICO 2020
 
+UPDATE SEP 2020
+
+Versión: V09c
+![Captura de pantalla 2020-09-22 a la(s) 15 03 54](https://user-images.githubusercontent.com/6895326/93932072-4004fb00-fce5-11ea-989d-33fbaeeb02ca.jpg)
+
+
+Versión: V11c
+![Captura de pantalla 2020-09-22 a la(s) 15 04 44](https://user-images.githubusercontent.com/6895326/93932076-41cebe80-fce5-11ea-98df-ff97109d700b.jpg)
+
 Versión: V09b
 
 ![TCRV-Touchdesigner-NDI-Mixer-Hécto-Cruz-Juárez](https://user-images.githubusercontent.com/6895326/83799865-18255500-a66c-11ea-9dd8-850aa4659051.jpg)
