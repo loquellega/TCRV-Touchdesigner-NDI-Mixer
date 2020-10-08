@@ -5,6 +5,8 @@ Héctor Cruz Juárez
 
 Diagrama interactivo: https://miro.com/app/board/o9J_klL4gMo=/
 
+![TCRV](https://user-images.githubusercontent.com/6895326/95414031-7c924280-08f2-11eb-8afe-915d383766a1.jpg)
+
 + info https://hectorcruz.com.mx
 hello@hectorcruz.com.mx
 
