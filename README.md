@@ -24,11 +24,11 @@ MÉXICO 2020
 UPDATE OCT 2020
 
 
-Versión: V09d
+Versión: V09e
 
 ![Captura de pantalla 2020-10-08 a la(s) 13 21 55](https://user-images.githubusercontent.com/6895326/95499820-79876880-096b-11eb-83f0-d4d761ca1402.jpg)
 
-Versión: V11d
+Versión: V11e
 
 ![Captura de pantalla 2020-10-08 a la(s) 13 34 22](https://user-images.githubusercontent.com/6895326/95499830-7be9c280-096b-11eb-965c-7b1cfe06ea79.jpg)
 
