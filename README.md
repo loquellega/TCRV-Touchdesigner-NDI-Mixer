@@ -22,15 +22,17 @@ MÉXICO 2020
 UPDATE SEP 2020
 
 Versión: V09c
+
 ![Captura de pantalla 2020-09-22 a la(s) 15 03 54](https://user-images.githubusercontent.com/6895326/93932072-4004fb00-fce5-11ea-989d-33fbaeeb02ca.jpg)
 
+Versión: V09d
 
-Versión: V11c
-![Captura de pantalla 2020-09-22 a la(s) 15 04 44](https://user-images.githubusercontent.com/6895326/93932076-41cebe80-fce5-11ea-98df-ff97109d700b.jpg)
+![TCRV-Touchdesigner-NDI-Mixer-V9d](https://user-images.githubusercontent.com/6895326/95413556-5c15b880-08f1-11eb-89ca-7b3b1e0cabef.jpg)
 
-Versión: V09b
+Versión: V11d
 
-![TCRV-Touchdesigner-NDI-Mixer-Hécto-Cruz-Juárez](https://user-images.githubusercontent.com/6895326/83799865-18255500-a66c-11ea-9dd8-850aa4659051.jpg)
+![TCRV-Touchdesigner-NDI-Mixer-V11d](https://user-images.githubusercontent.com/6895326/95413559-5cae4f00-08f1-11eb-946f-baa11ffef910.jpg)
+
 
 El tutorial en video muestra como utilizarlo. (señales NDI minuto: 3:27)
 
