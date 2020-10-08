@@ -26,11 +26,12 @@ UPDATE OCT 2020
 
 Versión: V09d
 
-![TCRV-Touchdesigner-NDI-Mixer-V9d](https://user-images.githubusercontent.com/6895326/95413556-5c15b880-08f1-11eb-89ca-7b3b1e0cabef.jpg)
+![Captura de pantalla 2020-10-08 a la(s) 13 21 55](https://user-images.githubusercontent.com/6895326/95499820-79876880-096b-11eb-83f0-d4d761ca1402.jpg)
 
 Versión: V11d
 
-![TCRV-Touchdesigner-NDI-Mixer-V11d](https://user-images.githubusercontent.com/6895326/95413559-5cae4f00-08f1-11eb-946f-baa11ffef910.jpg)
+![Captura de pantalla 2020-10-08 a la(s) 13 34 22](https://user-images.githubusercontent.com/6895326/95499830-7be9c280-096b-11eb-965c-7b1cfe06ea79.jpg)
+
 
 
 El tutorial en video muestra como utilizarlo. (señales NDI minuto: 3:27)
