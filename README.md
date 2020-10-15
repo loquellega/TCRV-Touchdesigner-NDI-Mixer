@@ -2,9 +2,12 @@
 
 Este proyecto ha sido programado por 
 Héctor Cruz Juárez
+https://vimeo.com/466765987
 
 Diagrama interactivo: https://miro.com/app/board/o9J_klL4gMo=/
 
+![TCRV 02](https://user-images.githubusercontent.com/6895326/96169124-4c950180-0ee7-11eb-8266-80a2579a7239.jpg)
+![LOOP-WSA-2020-V1](https://user-images.githubusercontent.com/6895326/96169370-9c73c880-0ee7-11eb-99ca-78834427369e.jpg)
 ![TCRV](https://user-images.githubusercontent.com/6895326/95414031-7c924280-08f2-11eb-8afe-915d383766a1.jpg)
 
 + info https://hectorcruz.com.mx
