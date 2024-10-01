@@ -1,1 +1,1 @@
-Windows 11 Touchdesigner Pro
+Windows 11 - RTX4090 - Touchdesigner Pro - ZoomBridge
