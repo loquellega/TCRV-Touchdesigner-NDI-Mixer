@@ -1,6 +1,6 @@
 # TCRV-Touchdesigner-NDI-Mixer
 
-Original Version 2020 - MacbookPro 2027 i7 - Skype / ZoomIso 
+Original Version 2020 - MacbookPro 2027 i7 - Skype / ZoomIso
 
 Este proyecto ha sido programado por 
 Héctor Cruz Juárez
