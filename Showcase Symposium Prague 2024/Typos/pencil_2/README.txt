@@ -1,1 +1,0 @@
-Any donation will be very apreciated. Thanks and enjoy this font.
